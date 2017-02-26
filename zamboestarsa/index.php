@@ -19,11 +19,12 @@
       <h1>Köszöntöm honlapunkon!</h1>
       <img alt="Zámbó Sándor" class="zs-pic" src="images/zs.jpg" />
       <p>Engedje meg, hogy bemutatkozzam és bemutassam cégünket!</p>
-      <p>Nevem Zámbó Sándor, a Soproni Faipari Egyetemen végzett szakember vagyok.</p>
-      <p>Cégünk 1993-ban alakult.</p>
-      <p>A jól képzett szakember gárda, a folyamatos fejlesztések eredménye, valamint a gépesítettségünk teszi lehetővé a jó minőségű termékek előállítását.</p>
+      <p>Nevem: Zámbó Sándor.</p>
+      <p>Cégünket 1993-ban alapítottam, melyhez a szakmai tudásom alapjait a Soproni Egyetemen sajátítottam el.</p>
+      <p>A jól képzett szakember gárda, a folyamatos fejlesztések eredménye, valamint a számítógép vezérléső gépek használata teszi lehetővé a jó minőségű termékeink előállítását.</p>
       <img alt="Oklevel" src="images/oklevel.png" class="oklevel"/>
-      <p>Elsősorban egyedi lakás-, iroda, és iskolabútorok, valamint székek, nyílászárók, falépcsők gyártására vagyunk felkészülve, de nagyon kedvező áron (gyártói ár alatt) forgalmazunk irodai, munkahelyi, iskolai, kollégiumi bútorokat, foteleket, székeket, kanapékat, ágyakat, padokat és utcabútorokat.</p>
+      <p>Elsősorban egyedi lakás-, iroda-, és iskolabútorok, valamint székek, nyílászárók, falépcsők gyártására vagyunk felkészülve.
+      <p>Kedvező áron (akár nagykereskedelmi áron) forgalmazzuk partnereink irodai-, munkahelyi-, iskolai- és kollégiumi bútorait, foteljeit, székeit, kanapéit, ágyait, padjait és utcabútorait, melyeket katalógusból választhatnak ki vásárlóink.</p>
       <p>Termékeinket folyamatosan jó minőségben, gyosan, meghatározott határidőn belül és reális áron állítjuk elő, illetve forgalmazzuk.</p>
       <img alt="Bokik" src="images/bokik.png" class="bokik"/>
       <p>Újdonság, amit csak cégünk vállal: 2 évig karbantartjuk termékeinket!</p>
@@ -74,16 +75,22 @@
   </div>
   <br />
   <div class="gallery">
-    <div class="title")>Ablakok</div>
-    <img src="images/ref_ablakok/ablakok_9.jpg" />
+    <a href="ref_ablakok/images.php">
+      <div class="title")>Ablakok</div>
+      <img src="images/ref_ablakok/ablakok_9.jpg" />
+    </a>
   </div>
   <div class="gallery">
-    <div class="title">Ágyak</div>
-    <img src="images/ref_agyak/agyak_01.jpg" />
+    <a href="">
+      <div class="title">Ágyak</div>
+      <img src="images/ref_agyak/agyak_01.jpg" />
+    </a>
   </div>
   <div class="gallery">
-    <div class="title">Ajtók</div>
-    <img src="images/ref_ajtok/ajtok_1.jpg" />
+   <a href="">
+     <div class="title">Ajtók</div>
+      <img src="images/ref_ajtok/ajtok_1.jpg" />
+    </a>
   </div>
   <div class="gallery">
     <div class="title">Egyházi bútorok</div>
