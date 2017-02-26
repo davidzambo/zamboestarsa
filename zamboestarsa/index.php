@@ -1,64 +1,148 @@
 <!DOCTYPE HTML>
 <html>
-<head>
-  <title>Üdvözöljük a Zámbó és társa bt. honlapján</title>
-  <link type="text/css" rel="stylesheet" href="styles.css" />
-  <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet" />
-</head>
+  <head>
+    <title>Üdvözöljük a Zámbó és társa bt. honlapján</title>
+    <link type="text/css" rel="stylesheet" href="styles.css" />
+    <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,700,900" rel="stylesheet">
+  </head>
 <body>
-<div class="container">
-<div class="nav-bar">
-  <ul>
-    <li><a href="#welcome">Köszöntő</a></li>
-    <li><a href="#profile">Miben segíthetünk</a></li>
-    <li><a href="#gallery">Referenciáink</a></li>
-    <li><a href="#contacts">Elérhetőségeink</a></li>
-  </ul>
-</div>
-<div id="welcome">
-  <h1>Köszöntöm honlapunkon!</h1>
-  <p>Engedje meg, hogy bemutatkozzam és bemutassam cégünket!</p>
-  <p>Nevem Zámbó Sándor, a Soproni Faipari Egyetemen végzett szakember vagyok.</p>
-  <p>Cégünk 1993-ban alakult.</p>
-  <p>A jól képzett szakember gárda, a folyamatos fejlesztések eredménye, valamint a gépesítettségünk teszi lehetővé a jó minőségű termékek előállítását.</p>
-  <p>Elsősorban egyedi lakás-, iroda, és iskolabútorok, valamint székek, nyílászárók, falépcsők gyártására vagyunk felkészülve, de nagyon kedvező áron (gyártói ár alatt) forgalmazunk irodai, munkahelyi, iskolai, kollégiumi bútorokat, foteleket, székeket, kanapékat, ágyakat, padokat és utcabútorokat.</p>
-  <p>Termékeinket folyamatosan jó minőségben, gyosan, meghatározott határidőn belül és reális áron állítjuk elő, illetve forgalmazzuk.</p>
-  <p>Újdonság, amit csak cégünk vállal: 2 évig karbantartjuk termékeinket!</p>
-  <p>Ennek köszönhető töretlen fejlődésünk, melyet a 2010-es év során a Borsod-Abaúj-Zemplén megyei Kereskedelmi és Iparkamara Oklevéllel is elismert.</p>
-  <p>Kérem tekintse meg referenciáinkat, s amennyiben kérdése merül fel, keressen minket bizalommal!</p>
+  <div class="nav-bar">
+    <ol>
+      <li><a href="#welcome">Köszöntő</a></li>
+      <li><a href="#profile">Miben segíthetünk?</a></li>
+      <li><a href="#gallery">Referenciáink</a></li>
+      <li><a href="#contacts">Elérhetőségeink</a></li>
+    </ol>
+  </div>
+  <div class="container">
+    <div id="welcome">
+      <h1>Köszöntöm honlapunkon!</h1>
+      <img alt="Zámbó Sándor" class="zs-pic" src="images/zs.jpg" />
+      <p>Engedje meg, hogy bemutatkozzam és bemutassam cégünket!</p>
+      <p>Nevem Zámbó Sándor, a Soproni Faipari Egyetemen végzett szakember vagyok.</p>
+      <p>Cégünk 1993-ban alakult.</p>
+      <p>A jól képzett szakember gárda, a folyamatos fejlesztések eredménye, valamint a gépesítettségünk teszi lehetővé a jó minőségű termékek előállítását.</p>
+      <img alt="Oklevel" src="images/oklevel.png" class="oklevel"/>
+      <p>Elsősorban egyedi lakás-, iroda, és iskolabútorok, valamint székek, nyílászárók, falépcsők gyártására vagyunk felkészülve, de nagyon kedvező áron (gyártói ár alatt) forgalmazunk irodai, munkahelyi, iskolai, kollégiumi bútorokat, foteleket, székeket, kanapékat, ágyakat, padokat és utcabútorokat.</p>
+      <p>Termékeinket folyamatosan jó minőségben, gyosan, meghatározott határidőn belül és reális áron állítjuk elő, illetve forgalmazzuk.</p>
+      <img alt="Bokik" src="images/bokik.png" class="bokik"/>
+      <p>Újdonság, amit csak cégünk vállal: 2 évig karbantartjuk termékeinket!</p>
+      <p>Ennek köszönhető töretlen fejlődésünk, melyet a 2010-es év során a Borsod-Abaúj-Zemplén megyei Kereskedelmi és Iparkamara Oklevéllel is elismert.</p>
 
-  <p>Tisztelettel a sikeres együttműködés reményében:</p>
+      <p>Kérem tekintse meg referenciáinkat, s amennyiben kérdése merül fel, keressen minket bizalommal!</p>
 
-  <p>Zámbó Sándor</p>
-  <p>üzletvezető</p>
+      <p>Tisztelettel a sikeres együttműködés reményében:</p>
+      <div class="undersign">
+        <p>Zámbó Sándor<br/>
+          üzletvezető</p>
+      </div>
+    </div>
+
+    <div id="profile">
+      <div class="part-profile">
+        <p>Profilunk</p>
+      </div>
+      <p>Bútoraink:<br />
+        Iroda és iskola berendezéseink, lakásbútoraink, gyerekbútoraink, igazodnak az elvárt igényekhez, az anyagok gazdag választékával, szabványosított méretekkel dolgozunk, így a megye egyik legkedvezőtt árfekvésű szállítói vagyunk.</p>
+      <p>Ajtóink, ablakaink:<br />
+          2008-tól számítógép vezérlésű géppel állítjuk elő hossz toldott, rétegragasztott borovi fenyőfából, roto vasalattal, fém vízvetővel szerelve. Gyártani tudjuk felületkezeléssel 3 rétegű üvegezéssel, dupla gumiszigeteléssel. Beépítjük a terméket. 20 év garanciát vállalunk!</p>
+      <p>Garázskapu szekcionált, motoros, távirányítású:<br />
+            Újdonságát az adja, hogy rétegragasztott borovi fenyőfából készítjük.</p>
+      <p>Falépcsőink:<br />
+            Helyszíni felmérés alapján tölgyfa, bükkfa, fenyőfa anyagokból gyártjuk, de lehetőség van más fafajok beépítésére is.</p>
+      <p>A gyors helyszíni beszerelés garantált, igyekszünk a megrendelőnek a lehető legkisebb kellemetlenséget okozni.
+            Ennek köszönhető töretlen fejlődésünk.</p>
+      <p>Üzletünk:<br />
+            Bűtor- és épületasztalos vasalatokat, szerelvényeket, kilincseket, zárakat, díszítő elemeket, díszüvegeket, rész és króm köszöbborításokat, lépcsőkorlát elemeket forgalmazunk nagy- és kiskereskedelmi áron.<br />
+            Miskolc és környékének lakosságán kívül néhány cég, mely minket választott beszállítójának:</p>
+        <ul>
+          <li>MOL</li>
+          <li>Miskolci Egyetem,</li>
+          <li>Környezetvédelmi Főfelügyelőség Borsod-Abaúj-Zemplén megyei kirendeltsége</li>
+          <li>Borsod-Abaúj-Zemplén megyei munkaügyi központ</li>
+          <li>Felsőzsolcai ÁMK</li>
+          <li>Borsod-Abaúj-Zemplén megyei ügyészség</li>
+          <li>Szerencsejáték Zrt.</li>
+        </ul>
+      <p>Megrendelésének kifizetésekor lehetőség van készpénzes számlás, átutalásos számlás vagy részletfizetéses rendezésre.</p>
+      <p>Amennyiben van lehetősége és igénye ilyen jellegű munkára, megrendelésével tegyen próbára bennünket, vagy válasszon ismét bennünket!</p>
+  </div>
+
+<div id="reference">
+  <div class="part-reference">
+    <p>Referenciáink</p>
+  </div>
+  <br />
+  <div class="gallery">
+    <div class="title")>Ablakok</div>
+    <img src="images/ref_ablakok/ablakok_9.jpg" />
+  </div>
+  <div class="gallery">
+    <div class="title">Ágyak</div>
+    <img src="images/ref_agyak/agyak_01.jpg" />
+  </div>
+  <div class="gallery">
+    <div class="title">Ajtók</div>
+    <img src="images/ref_ajtok/ajtok_1.jpg" />
+  </div>
+  <div class="gallery">
+    <div class="title">Egyházi bútorok</div>
+    <img src="images/ref_egyhazi/egyhazibutorok_07.jpg" />
+  </div>
+  <div class="gallery">
+    <div class="title">Előszobák</div>
+    <img src="images/ref_egyhazi/egyhazibutorok_07.jpg" />
+  </div>
+  <div class="gallery">
+    <div class="title">Garázskapuk</div>
+    <img src="images/ref_garazskapuk/DSCF2182.jpg"/>
+  </div>
+  <div class="gallery">
+    <div class="title">Íróasztalok</div>
+    <img src="images/ref_iroasztalok/iroasztalok_01.jpg"/>
+  </div>
+  <div class="gallery">
+    <div class="title">Irodabútorok</div>
+    <img src="images/ref_iroda/irodai_butorok_01.jpg"/>
+  </div>
+  <div class="gallery">
+    <div class="title">Iskolabútorok</div>
+    <img src="images/ref_iskola/iskolabutorok_02.jpg"/>
+  </div>
+  <div class="gallery">
+    <div class="title">Kerítések</div>
+    <img src="images/ref_kerites/keritesek_02.jpg"/>
+  </div>
+  <div class="gallery">
+    <div class="title">Konyhabútorok</div>
+    <img src="images/ref_konyha/DSCF2106.jpg"/>
+  </div>
+  <div class="gallery">
+    <div class="title">Közösségi bútorok</div>
+    <img src="images/ref_kozossegi/DSCF2419.jpg">
+  </div>
+  <div class="gallery">
+    <div class="title">Lépcsők</div>
+    <img src="images/ref_lepcsok/lepcsok_02.jpg">
+  </div>
+  <div class="gallery">
+    <div class="title">Padok</div>
+    <img src="images/ref_padok/padok_01.jpg">
+  </div>
+  <div class="gallery">
+    <div class="title">Székek</div>
+    <img src="images/ref_szekek/szekek_08.jpg">
+  </div>
+  <div class="gallery">
+    <div class="title">Szobabútorok</div>
+    <img src="images/ref_szobabutorok/szobabutorok_20.jpg">
+  </div>
+
 </div>
-<div id="profile">
-  <p>Bútoraink:<br />
-  Iroda és iskola berendezéseink, lakásbútoraink, gyerekbútoraink, igazodnak az elvárt igényekhez, az anyagok gazdag választékával, szabványosított méretekkel dolgozunk, így a megye egyik legkedvezőtt árfekvésű szállítói vagyunk.</p>
-  <p>Ajtóink, ablakaink:<br />
-  2008-tól számítógép vezérlésű géppel állítjuk elő hossz toldott, rétegragasztott borovi fenyőfából, roto vasalattal, fém vízvetővel szerelve. Gyártani tudjuk felületkezeléssel 3 rétegű üvegezéssel, dupla gumiszigeteléssel. Beépítjük a terméket. 20 év garanciát vállalunk!</p>
-  <p>Garázskapu szekcionált, motoros, távirányítású:<br />
-  Újdonságát az adja, hogy rétegragasztott borovi fenyőfából készítjük.</p>
-  <p>Falépcsőink:<br />
-  Helyszíni felmérés alapján tölgyfa, bükkfa, fenyőfa anyagokból gyártjuk, de lehetőség van más fafajok beépítésére is.</p>
-  <p>A gyors helyszíni beszerelés garantált, igyekszünk a megrendelőnek a lehető legkisebb kellemetlenséget okozni.
-  Ennek köszönhető töretlen fejlődésünk.</p>
-  <p>Üzletünk:<br />
-  Bűtor- és épületasztalos vasalatokat, szerelvényeket, kilincseket, zárakat, díszítő elemeket, díszüvegeket, rész és króm köszöbborításokat, lépcsőkorlát elemeket forgalmazunk nagy- és kiskereskedelmi áron.<br />
-  Miskolc és környékének lakosságán kívül néhány cég, mely minket választott beszállítójának:</p>
-  <ul>
-    <li>MOL</li>
-    <li>Miskolci Egyetem,</li>
-    <li>Környezetvédelmi Főfelügyelőség Borsod-Abaúj-Zemplén megyei kirendeltsége</li>
-    <li>Borsod-Abaúj-Zemplén megyei munkaügyi központ</li>
-    <li>Felsőzsolcai ÁMK</li>
-    <li>Borsod-Abaúj-Zemplén megyei ügyészség</li>
-    <li>Szerencsejáték Zrt.</li>
-  </ul>
-  <p>Megrendelésének kifizetésekor lehetőség van készpénzes számlás, átutalásos számlás vagy részletfizetéses rendezésre.</p>
-  <p>Amennyiben van lehetősége és igénye ilyen jellegű munkára, megrendelésével tegyen próbára bennünket, vagy válasszon ismét bennünket!</p>
-</div>
-<div id="contacts">
+<div class="contacts">
+  <div class="part-contacts">
+    <p>Elérhetőségeink</p>
+  </div>
   <h2>Zámbó és Társa Bt.<br />
   Bútor és épületasztalos gyártó és kereskedő cég</h2>
   <h3>Iroda és üzem:</h3>
