@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
   <head>
-    <title>Üdvözöljük a Zámbó és társa bt. honlapján</title>
+    <title>Üdvözöljük a Zámbó és Társa bt. honlapján</title>
     <link type="text/css" rel="stylesheet" href="styles.css" />
     <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,700,900" rel="stylesheet">
   </head>
@@ -10,7 +10,7 @@
     <ol>
       <li><a href="#welcome">Köszöntő</a></li>
       <li><a href="#profile">Miben segíthetünk?</a></li>
-      <li><a href="#gallery">Referenciáink</a></li>
+      <li><a href="#reference">Referenciáink</a></li>
       <li><a href="#contacts">Elérhetőségeink</a></li>
     </ol>
   </div>
@@ -78,80 +78,106 @@
   </div>
   <br />
   <div class="gallery">
-    <a href="images/ref_ablakok/images.php">
+    <a href="images/ref_ablakok/image_gallery.php">
       <div class="title")>Ablakok</div>
       <img src="images/ref_ablakok/ablakok_9.jpg" />
     </a>
   </div>
   <div class="gallery">
-    <a href="">
+    <a href="images/ref_agyak/image_gallery.php">
       <div class="title">Ágyak</div>
       <img src="images/ref_agyak/agyak_01.jpg" />
     </a>
   </div>
   <div class="gallery">
-   <a href="">
+   <a href="images/ref_ajtok/image_gallery.php">
      <div class="title">Ajtók</div>
       <img src="images/ref_ajtok/ajtok_1.jpg" />
     </a>
   </div>
   <div class="gallery">
-    <div class="title">Egyházi bútorok</div>
-    <img src="images/ref_egyhazi/egyhazibutorok_07.jpg" />
+    <a href="images/ref_egyhazi/image_gallery.php">
+      <div class="title">Egyházi bútorok</div>
+      <img src="images/ref_egyhazi/egyhazibutorok_07.jpg" />
+    </a>
   </div>
   <div class="gallery">
-    <div class="title">Előszobák</div>
-    <img src="images/ref_egyhazi/egyhazibutorok_07.jpg" />
+    <a href="images/ref_eloszobak/image_gallery.php">
+      <div class="title">Előszobák</div>
+      <img src="images/ref_eloszobak/DSCF2101.jpg" />
+    </a>
   </div>
   <div class="gallery">
-    <div class="title">Garázskapuk</div>
-    <img src="images/ref_garazskapuk/DSCF2182.jpg"/>
+    <a href="images/ref_garazskapuk/image_gallery.php">
+      <div class="title">Garázskapuk</div>
+      <img src="images/ref_garazskapuk/DSCF2182.jpg"/>
+    </a>
   </div>
   <div class="gallery">
-    <div class="title">Íróasztalok</div>
-    <img src="images/ref_iroasztalok/iroasztalok_01.jpg"/>
+    <a href="images/ref_iroasztalok/image_gallery.php">
+      <div class="title">Íróasztalok</div>
+      <img src="images/ref_iroasztalok/iroasztalok_01.jpg"/>
+    </a>
   </div>
   <div class="gallery">
-    <div class="title">Irodabútorok</div>
-    <img src="images/ref_iroda/irodai_butorok_01.jpg"/>
+    <a href="images/ref_iroda/image_gallery.php">
+      <div class="title">Irodabútorok</div>
+      <img src="images/ref_iroda/irodai_butorok_01.jpg"/>
+    </a>
   </div>
   <div class="gallery">
-    <div class="title">Iskolabútorok</div>
-    <img src="images/ref_iskola/iskolabutorok_02.jpg"/>
+    <a href="images/ref_iskola/image_gallery.php">
+      <div class="title">Iskolabútorok</div>
+      <img src="images/ref_iskola/iskolabutorok_02.jpg"/>
+    </a>
   </div>
   <div class="gallery">
-    <div class="title">Kerítések</div>
-    <img src="images/ref_kerites/keritesek_02.jpg"/>
+    <a href="images/ref_kerites/image_gallery.php">
+      <div class="title">Kerítések</div>
+      <img src="images/ref_kerites/keritesek_02.jpg"/>
+    </a>
   </div>
   <div class="gallery">
-    <div class="title">Konyhabútorok</div>
-    <img src="images/ref_konyha/DSCF2106.jpg"/>
+    <a href="images/ref_konyha/image_gallery.php">
+      <div class="title">Konyhabútorok</div>
+      <img src="images/ref_konyha/DSCF2106.jpg"/>
+    </a>
   </div>
   <div class="gallery">
-    <div class="title">Közösségi bútorok</div>
-    <img src="images/ref_kozossegi/DSCF2419.jpg">
+    <a href="images/ref_kozossegi/image_gallery.php">
+      <div class="title">Közösségi bútorok</div>
+      <img src="images/ref_kozossegi/DSCF2419.jpg">
+    </a>
   </div>
   <div class="gallery">
-    <div class="title">Lépcsők</div>
-    <img src="images/ref_lepcsok/lepcsok_02.jpg">
+    <a href="images/ref_lepcsok/image_gallery.php">
+      <div class="title">Lépcsők</div>
+      <img src="images/ref_lepcsok/lepcsok_02.jpg">
+    </a>
   </div>
   <div class="gallery">
-    <div class="title">Padok</div>
-    <img src="images/ref_padok/padok_01.jpg">
+    <a href="images/ref_egyhazi/image_gallery.php">
+      <div class="title">Padok</div>
+      <img src="images/ref_padok/padok_01.jpg">
+    </a>
   </div>
   <div class="gallery">
-    <div class="title">Székek</div>
-    <img src="images/ref_szekek/szekek_08.jpg">
+    <a href="images/ref_szekek/image_gallery.php">
+      <div class="title">Székek</div>
+      <img src="images/ref_szekek/szekek_08.jpg">
+    </a>
   </div>
   <div class="gallery">
-    <div class="title">Szobabútorok</div>
-    <img src="images/ref_szobabutorok/szobabutorok_20.jpg">
+    <a href="images/ref_egyhazi/image_gallery.php">
+      <div class="title">Szobabútorok</div>
+      <img src="images/ref_szobabutorok/szobabutorok_20.jpg">
+    </a>
   </div>
   <br/>
   <br/>
   <br/>
 </div>
-<div class="contacts">
+<div id="contacts">
   <div class="section-title">
     <p>Elérhetőségeink</p>
   </div>
@@ -166,16 +192,17 @@
   <div class="map">
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2664.5824995573103!2d20.85313295083752!3d48.09899797911839!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473f5f8024bb7a51%3A0x34eccbd29c343d9c!2sFels%C5%91zsolca%2C+Szent+Istv%C3%A1n+u.+5%2C+3561!5e0!3m2!1sen!2shu!4v1486978840701" width="100%" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
   </div>
-
-  <h4>Bemutató üzlet és szerelvénybolt:</h4>
-  <p><strong>FAVILÁG</strong><br />
+  <br />
+  <h3>Bemutató üzlet és szerelvénybolt:</h3>
+  <strong>FAVILÁG</strong><br />
   H-3525 Miskolc, Szentpáli út 1.<br />
   Tel.: +36 (46) 756 660<br />
+  <br />
   <div class="map">
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2664.3698926128177!2d20.786695550837784!3d48.103099879118744!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47409ffbdbc5da4d%3A0x66a6cf7afed9f690!2sMiskolc%2C+Szentp%C3%A1li+u.+1%2C+3525!5e0!3m2!1sen!2shu!4v1486978469058" width="100%" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
   </div>
 
-  <h4>Bemutató terem nyitvatartása:</h4>
+  <h4>Bemutatótermünk nyitvatartása:</h4>
   <table>
     <tr>
       <td>Hétfő</td>
@@ -203,10 +230,14 @@
     </tr>
     <tr>
       <td>Vasárnap</td>
-      <td>zárva</td>
+      <td align = center>zárva</td>
     </tr>
   </table>
 </div>
+<div class="footer">
+  <p>Copyright &copy; Zámbó és Társa Bt. <?php echo date("Y")?></p>
+</div>
+
 </div>
 </body>
 </html>
