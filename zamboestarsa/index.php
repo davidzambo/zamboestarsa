@@ -25,9 +25,9 @@
       <img alt="Oklevel" src="images/oklevel.png" class="oklevel"/>
       <p>Elsősorban egyedi lakás-, iroda-, és iskolabútorok, valamint székek, nyílászárók, falépcsők gyártására vagyunk felkészülve.
       <p>Kedvező áron (akár nagykereskedelmi áron) forgalmazzuk partnereink irodai-, munkahelyi-, iskolai- és kollégiumi bútorait, foteljeit, székeit, kanapéit, ágyait, padjait és utcabútorait, melyeket katalógusból választhatnak ki vásárlóink.</p>
-      <p>Termékeinket folyamatosan jó minőségben, gyosan, meghatározott határidőn belül és reális áron állítjuk elő, illetve forgalmazzuk.</p>
+      <strong><p>Termékeinket folyamatosan jó minőségben, gyorsan, meghatározott határidőn belül és reális áron állítjuk elő, illetve forgalmazzuk.</p></strong>
       <img alt="Bokik" src="images/bokik.png" class="bokik"/>
-      <p>Újdonság, amit csak cégünk vállal: 2 évig karbantartjuk termékeinket!</p>
+      <p>Újdonság, amit csak cégünk vállal: rendeltetésszerű használat esetén az általunk gyártott termékeinket <strong>2 évig karbantartjuk!</strong></p>
       <p>Ennek köszönhető töretlen fejlődésünk, melyet a 2010-es év során a Borsod-Abaúj-Zemplén megyei Kereskedelmi és Iparkamara Oklevéllel is elismert.</p>
 
       <p>Kérem tekintse meg referenciáinkat, s amennyiben kérdése merül fel, keressen minket bizalommal!</p>
@@ -37,15 +37,16 @@
         <p>Zámbó Sándor<br/>
           üzletvezető</p>
       </div>
+      <br/>
     </div>
 
     <div id="profile">
-      <div class="part-profile">
+      <div class="section-title">
         <p>Profilunk</p>
       </div>
-      <p>Bútoraink:<br />
-        Iroda és iskola berendezéseink, lakásbútoraink, gyerekbútoraink, igazodnak az elvárt igényekhez, az anyagok gazdag választékával, szabványosított méretekkel dolgozunk, így a megye egyik legkedvezőtt árfekvésű szállítói vagyunk.</p>
-      <p>Ajtóink, ablakaink:<br />
+      <p><strong>Bútoraink:</strong><br />
+        Iroda és iskola berendezéseink, lakásbútoraink, gyerekbútoraink, igazodnak az elvárt igényekhez, az anyagok gazdag választékával, szabványosított méretekkel dolgozunk, így a megye egyik legkedvezőbb árfekvésű szállítói vagyunk.</p>
+      <p><strong>Ajtóink, ablakaink:</strong><br />
           2008-tól számítógép vezérlésű géppel állítjuk elő hossz toldott, rétegragasztott borovi fenyőfából, roto vasalattal, fém vízvetővel szerelve. Gyártani tudjuk felületkezeléssel 3 rétegű üvegezéssel, dupla gumiszigeteléssel. Beépítjük a terméket. 20 év garanciát vállalunk!</p>
       <p>Garázskapu szekcionált, motoros, távirányítású:<br />
             Újdonságát az adja, hogy rétegragasztott borovi fenyőfából készítjük.</p>
@@ -67,15 +68,17 @@
         </ul>
       <p>Megrendelésének kifizetésekor lehetőség van készpénzes számlás, átutalásos számlás vagy részletfizetéses rendezésre.</p>
       <p>Amennyiben van lehetősége és igénye ilyen jellegű munkára, megrendelésével tegyen próbára bennünket, vagy válasszon ismét bennünket!</p>
+      <br/>
+      <br/>
   </div>
 
 <div id="reference">
-  <div class="part-reference">
+  <div class="section-title">
     <p>Referenciáink</p>
   </div>
   <br />
   <div class="gallery">
-    <a href="ref_ablakok/images.php">
+    <a href="images/ref_ablakok/images.php">
       <div class="title")>Ablakok</div>
       <img src="images/ref_ablakok/ablakok_9.jpg" />
     </a>
@@ -144,10 +147,12 @@
     <div class="title">Szobabútorok</div>
     <img src="images/ref_szobabutorok/szobabutorok_20.jpg">
   </div>
-
+  <br/>
+  <br/>
+  <br/>
 </div>
 <div class="contacts">
-  <div class="part-contacts">
+  <div class="section-title">
     <p>Elérhetőségeink</p>
   </div>
   <h2>Zámbó és Társa Bt.<br />

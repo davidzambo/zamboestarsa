@@ -13,7 +13,7 @@ body {
   width: 80%;
   left: 10%;
   right: 10%;
-  margin-top: 46px;
+  margin-top: 43px;
   padding-top: 0;
   text-align: left;
   background-color: rgba(255, 255, 255, 0.6);
@@ -98,14 +98,14 @@ li a:active {
   padding-right: 30px;
 }
 
-.part-profile {
+.section-title {
   text-transform: uppercase;
   border-bottom: 1px solid black;
   margin: 0px;
   padding: 0px;
 }
 
-.part-profile p{
+.section-title p{
   background-color: #2f538e;
   border: 1px solid black;
   padding: 10px 30px 10px 30px;
@@ -120,22 +120,6 @@ li a:active {
   padding-left:10px;
 }
 
-.part-reference {
-  text-transform: uppercase;
-  border-bottom: 1px solid black;
-  margin: 0px auto 0px 0px;
-  padding: 0px;
-}
-
-.part-reference p{
-  background-color: #2f538e;
-  border: 1px solid black;
-  padding: 10px 30px 10px 30px;
-  margin: 0px 0px 0px 0px;
-  color: white;
-  display: inline-block;
-}
-
 .gallery {
   width: 200px;
   height: 183px;
@@ -147,7 +131,7 @@ li a:active {
   margin: 10px;
   margin-bottom: 20px;
   text-align: center;
-    text-decoration: none;
+  text-decoration: none;
 }
 
 .title {
@@ -157,13 +141,11 @@ li a:active {
   border-top-left-radius: 25px;
   border-top-right-radius: 25px;
   padding: 5px;
-    text-decoration: none;
 }
 
 .gallery:hover{
   background-color: white;
   color: black;
-  text-decoration: none;
 }
 
 .gallery img {
@@ -174,27 +156,19 @@ li a:active {
     border-bottom-right-radius: 25px;
 }
 
+a {
+  text-decoration: none;
+  color: white;
+}
+
+a:hover {
+  color: black;
+}
+
 .contacts {
   padding-left: 30px;
   padding-right: 30px;
 }
-
-.part-contacts {
-  text-transform: uppercase;
-  border-bottom: 1px solid black;
-  margin: 0px;
-  padding: 0px;
-}
-
-.part-contacts p {
-  background-color: #2f538e;
-  border: 1px solid black;
-  padding: 10px 30px 10px 30px;
-  margin: 0px;
-  color: white;
-  display:inline-block;
-}
-
 
 .map {
   width: 100%;
@@ -204,4 +178,28 @@ li a:active {
 table {
   margin:auto;
   margin-bottom: 50px;
+}
+
+.main-pic-container{
+  width: 90%;
+  margin-left: 5%;
+  height: 500px;
+  border: 1px solid black;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  text-align:center;
+}
+
+.main-pic {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.img-gallery-pic {
+  max-width: 100%;
+  max-height: 100px;
+  border-radius: 5px;
+  margin-left: 10px;
+  margin-right: auto;
+  margin-bottom: 10px;
 }
