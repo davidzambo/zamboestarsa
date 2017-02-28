@@ -1,6 +1,7 @@
 <!DOCTYPE HTML>
 <html>
   <head>
+    <meta charset="UTF-8">
     <title>Üdvözöljük a Zámbó és Társa bt. honlapján</title>
     <link type="text/css" rel="stylesheet" href="styles.css" />
     <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,700,900" rel="stylesheet">
@@ -48,23 +49,25 @@
         Iroda és iskola berendezéseink, lakásbútoraink, gyerekbútoraink, igazodnak az elvárt igényekhez, az anyagok gazdag választékával, szabványosított méretekkel dolgozunk, így a megye egyik legkedvezőbb árfekvésű szállítói vagyunk.</p>
       <p><strong>Ajtóink, ablakaink:</strong><br />
           2008-tól számítógép vezérlésű géppel állítjuk elő hossz toldott, rétegragasztott borovi fenyőfából, roto vasalattal, fém vízvetővel szerelve. Gyártani tudjuk felületkezeléssel 3 rétegű üvegezéssel, dupla gumiszigeteléssel. Beépítjük a terméket. 20 év garanciát vállalunk!</p>
-      <p>Garázskapu szekcionált, motoros, távirányítású:<br />
+      <p><strong>Garázskapu szekcionált, motoros, távirányítású:</strong><br />
             Újdonságát az adja, hogy rétegragasztott borovi fenyőfából készítjük.</p>
-      <p>Falépcsőink:<br />
+      <p><strong>Falépcsőink:</strong><br />
             Helyszíni felmérés alapján tölgyfa, bükkfa, fenyőfa anyagokból gyártjuk, de lehetőség van más fafajok beépítésére is.</p>
       <p>A gyors helyszíni beszerelés garantált, igyekszünk a megrendelőnek a lehető legkisebb kellemetlenséget okozni.
             Ennek köszönhető töretlen fejlődésünk.</p>
-      <p>Üzletünk:<br />
+      <p><strong>Üzletünk:</strong><br />
             Bűtor- és épületasztalos vasalatokat, szerelvényeket, kilincseket, zárakat, díszítő elemeket, díszüvegeket, rész és króm köszöbborításokat, lépcsőkorlát elemeket forgalmazunk nagy- és kiskereskedelmi áron.<br />
             Miskolc és környékének lakosságán kívül néhány cég, mely minket választott beszállítójának:</p>
         <ul>
           <li>MOL</li>
-          <li>Miskolci Egyetem,</li>
-          <li>Környezetvédelmi Főfelügyelőség Borsod-Abaúj-Zemplén megyei kirendeltsége</li>
-          <li>Borsod-Abaúj-Zemplén megyei munkaügyi központ</li>
+          <li>Miskolci Egyetem</li>
+          <li>Környezetvédelmi Főfelügyelőség</li>
+          <li>Munkaügyi központ</li>
           <li>Felsőzsolcai ÁMK</li>
           <li>Borsod-Abaúj-Zemplén megyei ügyészség</li>
-          <li>Szerencsejáték Zrt.</li>
+          <li>Szerencsejáték Zrt</li>
+          <li>MÁV Zrt</li>
+          <li>Regionális Hulladékgazdálkodási Társulás</li>
         </ul>
       <p>Megrendelésének kifizetésekor lehetőség van készpénzes számlás, átutalásos számlás vagy részletfizetéses rendezésre.</p>
       <p>Amennyiben van lehetősége és igénye ilyen jellegű munkára, megrendelésével tegyen próbára bennünket, vagy válasszon ismét bennünket!</p>
@@ -182,7 +185,15 @@
     <p>Elérhetőségeink</p>
   </div>
   <h2>Zámbó és Társa Bt.<br />
-  Bútor és épületasztalos gyártó és kereskedő cég</h2>
+  Faipari gyártó és kereskedő bt.</h2>
+  <h3>Bemutató üzlet és szerelvénybolt:</h3>
+  <strong>FAVILÁG</strong><br />
+  H-3525 Miskolc, Szentpáli út 1.<br />
+  Tel.: +36 (46) 756 660<br />
+  <br />
+  <div class="map">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2664.3698926128177!2d20.786695550837784!3d48.103099879118744!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47409ffbdbc5da4d%3A0x66a6cf7afed9f690!2sMiskolc%2C+Szentp%C3%A1li+u.+1%2C+3525!5e0!3m2!1sen!2shu!4v1486978469058" width="100%" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
+  </div>
   <h3>Iroda és üzem:</h3>
   H-3561 Felsőzsolca, Szent István út 5.<br />
   Tel./Fax: +36 (46) 384 509<br />
@@ -193,14 +204,6 @@
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2664.5824995573103!2d20.85313295083752!3d48.09899797911839!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473f5f8024bb7a51%3A0x34eccbd29c343d9c!2sFels%C5%91zsolca%2C+Szent+Istv%C3%A1n+u.+5%2C+3561!5e0!3m2!1sen!2shu!4v1486978840701" width="100%" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
   </div>
   <br />
-  <h3>Bemutató üzlet és szerelvénybolt:</h3>
-  <strong>FAVILÁG</strong><br />
-  H-3525 Miskolc, Szentpáli út 1.<br />
-  Tel.: +36 (46) 756 660<br />
-  <br />
-  <div class="map">
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2664.3698926128177!2d20.786695550837784!3d48.103099879118744!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47409ffbdbc5da4d%3A0x66a6cf7afed9f690!2sMiskolc%2C+Szentp%C3%A1li+u.+1%2C+3525!5e0!3m2!1sen!2shu!4v1486978469058" width="100%" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
-  </div>
 
   <h4>Bemutatótermünk nyitvatartása:</h4>
   <table>
